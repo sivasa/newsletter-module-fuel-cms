@@ -1,0 +1,38 @@
+.ico_newsletter_drafts_create { 
+	background-image: url(../images/ico_newsletter_drafts_create.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_subscribers{
+	background-image: url(../images/ico_newsletter_subscribers.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_settings{
+	background-image: url(../images/ico_newsletter_settings.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_drafts{
+	background-image: url(../images/ico_newsletter_drafts.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_historic{
+	background-image: url(../images/ico_newsletter_historic.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_send{
+	background-image: url(../images/ico_newsletter_send.png); 
+	background-size: 18px 18px;
+}
+
+.ico_newsletter_help{
+	background-image: url(../images/ico_newsletter_help.png); 
+	background-size: 18px 18px;
+}
+
+#main_content.noaction{
+	position: static;
+}

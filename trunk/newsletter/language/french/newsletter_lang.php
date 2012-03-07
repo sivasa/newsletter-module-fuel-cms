@@ -1,0 +1,29 @@
+<?php
+
+$lang['module_newsletter_create'] = 'Créer un Brouillon';
+$lang['module_newsletter_manage_subscribers'] = 'Gérer les abonnées';
+$lang['module_newsletter_drafts'] = 'Brouillons';
+$lang['module_newsletter_settings'] = 'Paramètres';
+$lang['module_newsletter_send'] = 'Envoyer';
+$lang['module_newsletter_help'] = 'Aide';
+$lang['module_newsletter_historic'] = 'Historique';
+$lang['module_newsletter_process_denied'] = 'Processus annulé.';
+$lang['module_newsletter_subscribers'] = 'Abonnés';
+$lang['module_newsletter_subscriber'] = 'Abonné';
+$lang['module_newsletter_newsletter_sent_to'] = 'Newsletter envoyé à';
+$lang['module_newsletter_draft'] = 'Brouillon';
+$lang['module_newsletter_preview'] = 'Apercu';
+$lang['module_newsletter_title'] = 'Titre';
+$lang['module_newsletter_content'] = 'Contenu';
+$lang['module_newsletter_instruction_send'] = 'Selectionner le brouillon à envoyer';
+$lang['module_newsletter_cancel'] = 'Annuler';
+$lang['module_newsletter_send_newletter'] = 'Envoyer une Newletter';
+$lang['module_newsletter_no_draft_to_send']= 'Il n\'y a pas de brouillon à envoyer.';
+$lang['module_newsletter_title_settings'] = 'Paramètres de la newsletter'; 
+$lang['module_newsletter_save_settings'] = 'Enregistrer';
+$lang['module_newsletter_from_name'] = 'Nom de l\'expéditeur';
+$lang['module_newsletter_from_mail'] = 'Adresse mail de l\'expéditeur';
+$lang['module_newsletter_header'] = 'En-tête';
+$lang['module_newsletter_footer'] = 'Pied du mail';
+$lang['module_newsletter_user_agent'] = 'User Agent';
+$lang['module_newsletter_prefix_title'] = 'Préfix du titre';
