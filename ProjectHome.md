@@ -1,0 +1,1 @@
+Module to manage and send Newsletter on Fuel Cms
